@@ -1,0 +1,6 @@
+token:
+  expiration_time: 864
+  secret: value1
+
+gateway:
+  ip: 211.237.36.12
